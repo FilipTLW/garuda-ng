@@ -142,8 +142,8 @@ importers:
         specifier: ^9.1.0
         version: 9.1.0(eslint@9.17.0(jiti@2.4.2))
       eslint-plugin-playwright:
-        specifier: ^1.8.3
-        version: 1.8.3(eslint@9.17.0(jiti@2.4.2))
+        specifier: ^2.0.0
+        version: 2.1.0(eslint@9.17.0(jiti@2.4.2))
       git-cliff:
         specifier: ^2.7.0
         version: 2.7.0
@@ -4392,15 +4392,11 @@ packages:
     peerDependencies:
       eslint: '>=7.0.0'
 
-  eslint-plugin-playwright@1.8.3:
-    resolution: {integrity: sha512-h87JPFHkz8a6oPhn8GRGGhSQoAJjx0AkOv1jME6NoMk2FpEsfvfJJNaQDxLSqSALkCr0IJXPGTnp6SIRVu5Nqg==}
+  eslint-plugin-playwright@2.1.0:
+    resolution: {integrity: sha512-wMbHOehofSB1cBdzz2CLaCYaKNLeTQ0YnOW+7AHa281TJqlpEJUBgTHbRUYOUxiXphfWwOyTPvgr6vvEmArbSA==}
     engines: {node: '>=16.6.0'}
     peerDependencies:
       eslint: '>=8.40.0'
-      eslint-plugin-jest: '>=25'
-    peerDependenciesMeta:
-      eslint-plugin-jest:
-        optional: true
 
   eslint-scope@5.1.1:
     resolution: {integrity: sha512-2NxwbF/hZ0KpepYN0cNbo+FN6XoK7GaHlQhgx/hIZl6Va0bF45RQOOwhLIy8lQDbuCiadSLCBnH2CFYquit5bw==}
@@ -12676,7 +12672,7 @@ snapshots:
     dependencies:
       eslint: 9.17.0(jiti@2.4.2)
 
-  eslint-plugin-playwright@1.8.3(eslint@9.17.0(jiti@2.4.2)):
+  eslint-plugin-playwright@2.1.0(eslint@9.17.0(jiti@2.4.2)):
     dependencies:
       eslint: 9.17.0(jiti@2.4.2)
       globals: 13.24.0
