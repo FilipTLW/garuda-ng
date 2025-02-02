@@ -39,8 +39,8 @@ importers:
         specifier: ^11.11.1
         version: 11.11.1
       ngx-highlightjs:
-        specifier: ^13.0.0
-        version: 13.0.0(@angular/cdk@19.0.4(@angular/common@19.0.7(@angular/core@19.0.7(rxjs@7.8.1)(zone.js@0.15.0))(rxjs@7.8.1))(@angular/core@19.0.7(rxjs@7.8.1)(zone.js@0.15.0))(rxjs@7.8.1))(@angular/common@19.0.7(@angular/core@19.0.7(rxjs@7.8.1)(zone.js@0.15.0))(rxjs@7.8.1))(@angular/core@19.0.7(rxjs@7.8.1)(zone.js@0.15.0))(rxjs@7.8.1)
+        specifier: ^14.0.0
+        version: 14.0.0(@angular/cdk@19.0.4(@angular/common@19.0.7(@angular/core@19.0.7(rxjs@7.8.1)(zone.js@0.15.0))(rxjs@7.8.1))(@angular/core@19.0.7(rxjs@7.8.1)(zone.js@0.15.0))(rxjs@7.8.1))(@angular/common@19.0.7(@angular/core@19.0.7(rxjs@7.8.1)(zone.js@0.15.0))(rxjs@7.8.1))(@angular/core@19.0.7(rxjs@7.8.1)(zone.js@0.15.0))(rxjs@7.8.1)
       primeicons:
         specifier: ^7.0.0
         version: 7.0.0
@@ -6030,8 +6030,8 @@ packages:
       tailwindcss:
         optional: true
 
-  ngx-highlightjs@13.0.0:
-    resolution: {integrity: sha512-ucE9lV/C1BWoOWq2Iw+L5xVpl1ijSYIAcCPUNm/u8wzVKScDnuiDODpJ9PnBGjRjwatyqI97BHOpijATJi2T+A==}
+  ngx-highlightjs@14.0.0:
+    resolution: {integrity: sha512-G0dezuYyHhp/oixm22wvj38PukFcgk5MooFTIx1shpZTFfq+KnqER0ZMNbMSNEQZh1OPtX9zpyZvYDoKZV2Avg==}
     peerDependencies:
       '@angular/cdk': '>=19.0.0'
       '@angular/common': '>=19.0.0'
@@ -15340,7 +15340,7 @@ snapshots:
     optionalDependencies:
       rollup: 4.32.0
 
-  ngx-highlightjs@13.0.0(@angular/cdk@19.0.4(@angular/common@19.0.7(@angular/core@19.0.7(rxjs@7.8.1)(zone.js@0.15.0))(rxjs@7.8.1))(@angular/core@19.0.7(rxjs@7.8.1)(zone.js@0.15.0))(rxjs@7.8.1))(@angular/common@19.0.7(@angular/core@19.0.7(rxjs@7.8.1)(zone.js@0.15.0))(rxjs@7.8.1))(@angular/core@19.0.7(rxjs@7.8.1)(zone.js@0.15.0))(rxjs@7.8.1):
+  ngx-highlightjs@14.0.0(@angular/cdk@19.0.4(@angular/common@19.0.7(@angular/core@19.0.7(rxjs@7.8.1)(zone.js@0.15.0))(rxjs@7.8.1))(@angular/core@19.0.7(rxjs@7.8.1)(zone.js@0.15.0))(rxjs@7.8.1))(@angular/common@19.0.7(@angular/core@19.0.7(rxjs@7.8.1)(zone.js@0.15.0))(rxjs@7.8.1))(@angular/core@19.0.7(rxjs@7.8.1)(zone.js@0.15.0))(rxjs@7.8.1):
     dependencies:
       '@angular/cdk': 19.0.4(@angular/common@19.0.7(@angular/core@19.0.7(rxjs@7.8.1)(zone.js@0.15.0))(rxjs@7.8.1))(@angular/core@19.0.7(rxjs@7.8.1)(zone.js@0.15.0))(rxjs@7.8.1)
       '@angular/common': 19.0.7(@angular/core@19.0.7(rxjs@7.8.1)(zone.js@0.15.0))(rxjs@7.8.1)
