@@ -19,11 +19,11 @@
   "peerDependencies": {
     "@angular/core": "~19.0.5",
     "primeng": "^19.0.2",
-    "jest-preset-angular": "~14.4.2",
+    "jest-preset-angular": "~14.4.2 || ~14.5.0",
     "@playwright/test": "^1.49.1",
     "@angular/platform-browser": "~19.0.5",
     "@angular/common": "~19.0.5"
   },
   "dependencies": {},
-  "packageManager": "pnpm@10.0.0+sha512.b8fef5494bd3fe4cbd4edabd0745df2ee5be3e4b0b8b08fa643aa3e4c6702ccc0f00d68fa8a8c9858a735a0032485a44990ed2810526c875e416f001b17df12b"
+  "packageManager": "pnpm@10.5.0+sha512.11106a5916c7406fe4b8cb8e3067974b8728f47308a4f5ac5e850304afa6f57e2847d7950dfe78877d8d36bfb401d381c4215db3a4c3547ffa63c14333a6fa51"
 }
